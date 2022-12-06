@@ -1,5 +1,5 @@
 ## Instructions
 
-Pull the source code: `git clone https://gitlab.com/wtrispsn/cb-health`
+Pull the source code: `git clone https://gitlab.com/wtrispsn/cb-health && cd cb-health`
 
-Run tests: `yarn test`
+Install deps and run tests: `yarn && yarn test`
